@@ -8,4 +8,5 @@ The SQL queries I wrote for this project are contained in the Covid_Portfolio_Pr
 
 The links to the Tableau Dashboards I created for this project can be found via the following links:
 https://public.tableau.com/app/profile/william.melahouris/viz/CovidDashboardPortfolioProject_16389965944610/Dashboard1
+
 https://public.tableau.com/app/profile/william.melahouris/viz/CovidDashboardPortfolioProject2/Dashboard1
